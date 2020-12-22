@@ -1,11 +1,11 @@
-learn_python
+learn_python {.unlisted .unnumbered}
 ============
 Welcome to **learn_python** - a small repository about learning python or programming in general. This is a guide for absolute, brutal, complete beginners. So see this as an onset to finally start to learn programming.  
 
 This is work in progress.  
 
 # Table of Contents
-- [learn_python](#learn_python)
+- [learn_python {.unlisted .unnumbered}](#learn_python-unlisted-unnumbered)
 - [Table of Contents](#table-of-contents)
 - [Terminology](#terminology)
 - [General Advice](#general-advice)
