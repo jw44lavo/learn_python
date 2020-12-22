@@ -10,7 +10,7 @@ This is work in progress.
 * [Getting Started](#getting-started)
     * [Windows](#windows)
     * [Ubuntu](#ubuntu)
-    * [Additional Software](#additional-software)
+    * [Hello World!](#hello-world)
 
 # Terminology
 At first we need to know about some technical terms, which are used commonly when talking about programming.  
