@@ -10,6 +10,7 @@ This is work in progress.
 * [Getting Started](#getting-started)
     * [Windows](#windows)
     * [Ubuntu](#ubuntu)
+    * [Additional Software](#additional-software)
 
 # Terminology
 At first we need to know about some technical terms, which are used commonly when talking about programming.  
@@ -18,7 +19,7 @@ At first we need to know about some technical terms, which are used commonly whe
 
 **Language**: A language is a certain type of speaking to your computer. There are hundreds of programming languages and several language types as well. Details are not important at the beginning, but you should know following: Here you can see an introduction to Python.  
 
-**Python**: Python is the programming language presented here. It focuses on code readability, why it is often used as an entry-language.  
+**Python**: Python is the programming language presented here. It focuses on code readability, why it is often used as an entry-language. There are Python 2.7 and Python 3.x. This guide is about Python 3.x. You will probably learn about the difference later on.
 
 
 # General Advice
@@ -32,16 +33,14 @@ Some would say, that programming is just about searching for the right stuff at 
 
 
 # Getting Started
-After sorting out the general stuff, we can come the programming itself. Nearly. The following instructions assume, that you are using Windows. If you are using a Linux distribution, you should be able installing necessary software by yourself.
-
+After sorting out the general stuff, we can come the programming itself. Nearly. At first you need to install Python, if you never done it before. Additionally, you need a software for text editing (not mandatory but recommended).  
 
 ## Windows
 ### Install Python
 
 
-
 ### Install VSCode
-Using [Visual Studio Code](https://code.visualstudio.com/) is just a recommendation. You can also use any other text editor such as [Atom](https://atom.io/) or [Sublime](https://www.sublimetext.com/).  
+Using [Visual Studio Code](https://code.visualstudio.com/) for text editing is just a recommendation. You can also use any other text editor such as [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or preinstalled software.  
 
 Download the right installer according to your operating system from https://code.visualstudio.com/Download (Windows, 32- or 64-bit, User Installer). Execute the downloaded .exe file and follow the instructions.  
 
@@ -56,12 +55,10 @@ The mother of learning a new programming language is about learning how to print
 
 ## Ubuntu
 ### Install Python
-
+Python 3.x comes preinstalled in the latest versions of Ubuntu. Check the version by opening a terminal and executing ```python --version```. If Python 3.x is not installed, execute ```sudo apt install python3.9``` (3.9 is the latest version). Check the version again.  
 
 ### Install VSCode
-Using [Visual Studio Code](https://code.visualstudio.com/) is just a recommendation. You can also use any other text editor such as [Atom](https://atom.io/) or [Sublime](https://www.sublimetext.com/).  
-
-Download the right installer according to your operating system from https://code.visualstudio.com/Download (Windows, 32- or 64-bit, User Installer). Execute the downloaded .exe file and follow the instructions.  
+Open the Ubuntu Software Center. Type 'vscode', select 'Visual Studio Code', install it. Done.
 
 ### Execute your first Script
 Create a new directory on your Desktop named 'learning_python'. Open VSCode and create a new file in the new directory named 'hello_world.py'. Copy following code to the file and save the progress:
@@ -69,6 +66,7 @@ Create a new directory on your Desktop named 'learning_python'. Open VSCode and 
 print('Hello World!')
 ```
 
+## Hello World!
 The mother of learning a new programming language is about learning how to print out "Hello World!". It's holy programmers' codex. So just do it!  
 
-# Test
+## Additional Software
