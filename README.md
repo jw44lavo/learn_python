@@ -1,25 +1,10 @@
-learn_python {.unlisted .unnumbered}
+learn_python
 ============
 Welcome to **learn_python** - a small repository about learning python or programming in general. This is a guide for absolute, brutal, complete beginners. So see this as an onset to finally start to learn programming.  
 
 This is work in progress.  
 
-# Table of Contents
-- [learn_python {.unlisted .unnumbered}](#learn_python-unlisted-unnumbered)
-- [Table of Contents](#table-of-contents)
-- [Terminology](#terminology)
-- [General Advice](#general-advice)
-  - [Practice](#practice)
-  - [Help](#help)
-- [Getting Started](#getting-started)
-  - [Windows](#windows)
-    - [Install Python](#install-python)
-    - [Install VSCode](#install-vscode)
-    - [Execute your first Script](#execute-your-first-script)
-  - [Ubuntu](#ubuntu)
-    - [Install Python](#install-python-1)
-    - [Install VSCode](#install-vscode-1)
-    - [Execute your first Script](#execute-your-first-script-1)
+* [Terminology](#terminology)
 
 # Terminology
 At first we need to know about some technical terms, which are used commonly when talking about programming.  
