@@ -4,6 +4,23 @@ Welcome to **learn_python** - a small repository about learning python or progra
 
 This is work in progress.  
 
+# Table of Contents
+- [learn_python](#learn_python)
+- [Table of Contents](#table-of-contents)
+- [Terminology](#terminology)
+- [General Advice](#general-advice)
+  - [Practice](#practice)
+  - [Help](#help)
+- [Getting Started](#getting-started)
+  - [Windows](#windows)
+    - [Install Python](#install-python)
+    - [Install VSCode](#install-vscode)
+    - [Execute your first Script](#execute-your-first-script)
+  - [Ubuntu](#ubuntu)
+    - [Install Python](#install-python-1)
+    - [Install VSCode](#install-vscode-1)
+    - [Execute your first Script](#execute-your-first-script-1)
+
 # Terminology
 At first we need to know about some technical terms, which are used commonly when talking about programming.  
 
@@ -27,16 +44,18 @@ Some would say, that programming is just about searching for the right stuff at 
 # Getting Started
 After sorting out the general stuff, we can come the programming itself. Nearly. The following instructions assume, that you are using Windows. If you are using a Linux distribution, you should be able installing necessary software by yourself.
 
-## Install Python
+
+## Windows
+### Install Python
 
 
 
-## Install VSCode
+### Install VSCode
 Using [Visual Studio Code](https://code.visualstudio.com/) is just a recommendation. You can also use any other text editor such as [Atom](https://atom.io/) or [Sublime](https://www.sublimetext.com/).  
 
 Download the right installer according to your operating system from https://code.visualstudio.com/Download (Windows, 32- or 64-bit, User Installer). Execute the downloaded .exe file and follow the instructions.  
 
-## Your first Script
+### Execute your first Script
 Create a new directory on your Desktop named 'learning_python'. Open VSCode and create a new file in the new directory named 'hello_world.py'. Copy following code to the file and save the progress:
 ```python
 print('Hello World!')
@@ -45,7 +64,20 @@ print('Hello World!')
 The mother of learning a new programming language is about learning how to print out "Hello World!". It's holy programmers' codex. So just do it!  
 
 
+## Ubuntu
+### Install Python
 
-## Using the Command Line
-You are probably afraid of working with the command line. But now you need to.
+
+### Install VSCode
+Using [Visual Studio Code](https://code.visualstudio.com/) is just a recommendation. You can also use any other text editor such as [Atom](https://atom.io/) or [Sublime](https://www.sublimetext.com/).  
+
+Download the right installer according to your operating system from https://code.visualstudio.com/Download (Windows, 32- or 64-bit, User Installer). Execute the downloaded .exe file and follow the instructions.  
+
+### Execute your first Script
+Create a new directory on your Desktop named 'learning_python'. Open VSCode and create a new file in the new directory named 'hello_world.py'. Copy following code to the file and save the progress:
+```python
+print('Hello World!')
+```
+
+The mother of learning a new programming language is about learning how to print out "Hello World!". It's holy programmers' codex. So just do it!  
 
