@@ -37,7 +37,7 @@ After sorting out the general stuff, we can come the programming itself. Nearly.
 
 ## Windows
 ### Install Python
-
+Visit Pythons download for the latest release (click [here](https://www.python.org/downloads/release/python-391/) for 3.9.1), scroll down to the bottom of the page and download the right installer according to your operating system. Execeute the downloaded .exe file and follow the instructions. Check the installed version in the CMD with ```python --version``` or ```python3 --version```.  
 
 ### Install VSCode
 Using [Visual Studio Code](https://code.visualstudio.com/) for text editing is just a recommendation. You can also use any other text editor such as [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or preinstalled software.  
@@ -49,13 +49,18 @@ Create a new directory on your Desktop named 'learning_python'. Open VSCode and 
 ```python
 print('Hello World!')
 ```
+Open a CMD (Windows+R, type 'cmd', press Enter), navigate to your python script and execute it by following code:
+```cmd
+cd Desktop\learning_python
+python hello_world.py
+```
+Alternatively, try ```python3 hello_world.py```.  
 
-The mother of learning a new programming language is about learning how to print out "Hello World!". It's holy programmers' codex. So just do it!  
-
+Congratulations, you executed your first python script! You are ready to go further steps.  
 
 ## Ubuntu
 ### Install Python
-Python 3.x comes preinstalled in the latest versions of Ubuntu. Check the version by opening a terminal and executing ```python --version```. If Python 3.x is not installed, execute ```sudo apt install python3.9``` (3.9 is the latest version). Check the version again.  
+Python 3.x comes preinstalled in the latest versions of Ubuntu. Check the version by opening a terminal and executing ```python --version```. If Python 3.x is not installed, execute ```sudo apt install python3.9``` (3.9 is the latest version). Check the version again with ```python --version``` or ```python3 --version```.  
 
 ### Install VSCode
 Open the Ubuntu Software Center. Type 'vscode', select 'Visual Studio Code', install it. Done.
@@ -65,8 +70,14 @@ Create a new directory on your Desktop named 'learning_python'. Open VSCode and 
 ```python
 print('Hello World!')
 ```
+Open a terminal (Ctrl+Alt+T), navigate to your python script and execute it by following code:
+```bash
+cd Desktop/learning_python
+python hello_world.py
+```
+Alternatively, try ```python3 hello_world.py```.  
+
+Congratulations, you executed your first python script! You are ready to go further steps.  
 
 ## Hello World!
 The mother of learning a new programming language is about learning how to print out "Hello World!". It's holy programmers' codex. So just do it!  
-
-## Additional Software
