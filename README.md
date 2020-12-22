@@ -4,7 +4,12 @@ Welcome to **learn_python** - a small repository about learning python or progra
 
 This is work in progress.  
 
+# Table of Contents
 * [Terminology](#terminology)
+* [General Advice](#general-advice)
+* [Getting Started](#getting-started)
+    * [Windows](#windows)
+    * [Ubuntu](#ubuntu)
 
 # Terminology
 At first we need to know about some technical terms, which are used commonly when talking about programming.  
@@ -66,3 +71,4 @@ print('Hello World!')
 
 The mother of learning a new programming language is about learning how to print out "Hello World!". It's holy programmers' codex. So just do it!  
 
+# Test
